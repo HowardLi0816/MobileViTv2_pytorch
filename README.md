@@ -7,7 +7,7 @@ Requirements: Python-3.6; pytorch-py3.6_cuda11.3_cudnn8_0; pytorch-cuda-11.7; to
 
 Use: python .\vit_test_tinyimagenet.py --img_size=256 --batch_size=256
 
-Dataset location: ./data
+Dataset location: .\data
 
 Cite from https://github.com/apple/ml-cvnets
 Mehta, Sachin, and Mohammad Rastegari. "Separable self-attention for mobile vision transformers." arXiv preprint arXiv:2206.02680 (2022).
